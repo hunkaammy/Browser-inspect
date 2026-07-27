@@ -1,0 +1,6 @@
+{
+  "name": "DevInspect Browser",
+  "description": "A mobile web browser with an integrated DevTools network inspector to capture APIs, JSONs, images, headers, and request bodies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
